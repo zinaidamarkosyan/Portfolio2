@@ -1,0 +1,143 @@
+body[data-theme="dark"] {
+
+  @import '../dark-slider.scss';
+
+  .slider-tab {
+    background-color: #8C8C8C;
+  }
+
+  .title-styles {
+    color: white;
+  }
+
+  .header-icon {
+    color: #ff43d6;
+    opacity: 0.8;
+  }
+
+  .slider-image {
+    border: 5px solid #8C8C8C;
+  }
+
+  .language {
+    background-color: #494949;
+  }
+
+  .link-href {
+    color: white;
+  }
+
+  .project-date {
+    background-color: #918e97;
+    color: white;
+  }
+
+  header {
+    // Dark theme color
+    background-image: linear-gradient(to right, #797979 0%, rgb(51, 51, 51) 100%);
+
+    h1 {
+      color: white;
+    }
+  }
+
+  #about {
+    background-color: #7f7f7f;
+
+    h1 span {
+      color: white;
+    }
+
+    .polaroid {
+      background: #6d6d6d;
+    }
+
+    .card {
+      background: #6d6d6d;
+      color: white;
+    }
+  }
+
+  #portfolio {
+    background-image: linear-gradient(to right, #797979 0%, rgb(51, 51, 51) 100%);
+
+    .section-title {
+      color: white !important;
+    }
+
+    .foto div {
+      background: #6d6d6d;
+    }
+
+    .project-title-settings {
+      color: white;
+    }
+  }
+
+  #experience {
+    filter: brightness(80%);
+    background-image: linear-gradient(to right, #797979 0%, rgb(51, 51, 51) 100%);
+
+    .section-title {
+      color: white !important;
+    }
+
+    .experience-badge {
+      background: #919191 !important;
+      color: white;
+    }
+
+    .main-badge {
+      background: #919191 !important;
+    }
+
+    .vertical-timeline-element-date {
+      color: white;
+    }
+
+    .vertical-timeline-element-icon {
+      background: #919191 !important;
+    }
+
+    @media only screen and (max-width: 1169px) {
+      .vertical-timeline-element-date {
+        color: black;
+      }
+    }
+  }
+
+  .modal-content {
+    background: #5b5b5b;
+    color: white;
+  }
+
+  .close-icon {
+    color: white;
+  }
+
+  #skills {
+    background: #1F1F1F;
+    .skill-icon {
+      color: white;
+    }
+    .skills-tile {
+      background-color: transparentize(#F8F5F4, 0.95);
+    }
+    .section-title {
+      color: white !important;
+    }
+  }
+  #footer {
+    background: #1F1F1F;
+    color: white;
+    a,
+    a:visited {
+      color: #fff;
+    }
+  
+    a:hover,
+    footer a:focus {
+      color: #fff;
+    }
+  }
+}
