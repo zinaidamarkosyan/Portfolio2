@@ -15408,15 +15408,15 @@ S.jsx(S.Fragment, {
   })
 }
 , WE = {
-  bgImgLink: "/images/background/hero-bg.jpg",
-  imgLink: "/images/section/about.png",
+  bgImgLink: "./images/background/hero-bg.jpg",
+  imgLink: "./images/section/about.png",
   title: "Zina <br /> Markosyan",
   subTitle: "Hello, I’m",
   designation: "Senior Full-Stack Engineer"
 }
 , VE = {
-  imgLink: "/images/section/about.png",
-  cvPdf: "/images/Zina-Markosyan-resume-overview.pdf",
+  imgLink: "./images/section/about.png",
+  cvPdf: "./images/Zina-Markosyan-resume-overview.pdf",
   title: "Hi There! I'm Zina",
   subtitle: "Senior Full-Stack Engineer",
   text: "I have over 15 years of full-stack development experience accorss various technologies. I have been developing software professionally for all kinds of industries. I'm always eager to satisfy my clients by providing high-quality solutions. During this time, I've mostly worked as a full-stack engineer with a stronger focus on back-end systems.",
@@ -15436,42 +15436,42 @@ S.jsx(S.Fragment, {
 }
 , QE = {
   services: [{
-      imgLink: "/images/icon/icon6.png",
+      imgLink: "./images/icon/icon6.png",
       title: "ASP.NET, C# & Blazor Development",
       text: "Experienced in ASP.NET, C#, and Blazor, specializing in scalable web applications with WebAssembly frontend and .NET backend. Skilled in interactive UIs, performance optimization, and maintainability.",
       effect: "zoom-out-up",
       duration: "500",
       delay: "200"
   }, {
-      imgLink: "/images/icon/icon4.png",
+      imgLink: "./images/icon/icon4.png",
       title: "Mobile Development",
       text: "Experienced in mobile app development with Swift, Android, and React Native. Launched Yoga Studio and Fuzzie App on the App Store and Google Play, handling development, optimization, and deployment. Skilled in third-party API integration and push notifications.",
       effect: "zoom-out-up",
       duration: "500",
       delay: "500"
   }, {
-      imgLink: "/images/icon/icon3.png",
+      imgLink: "./images/icon/icon3.png",
       title: "Cross Platform Development",
       text: "Experienced in Cross-Platform Development using Electron.js for macOS, Windows, and Linux, as well as React Native and .NET MAUI for mobile. Proudly developed a blockchain browser based on Electron.js and have expertise in Teams development.",
       effect: "zoom-out-up",
       duration: "500",
       delay: "400"
   }, {
-      imgLink: "/images/icon/icon2.png",
+      imgLink: "./images/icon/icon2.png",
       title: "React/Next.js Applications",
       text: "Integrated Material-UI and AG Grid in React/Next.js, optimized Webpack, reduced re-renders, and improved SEO with SSG/SSR for faster indexing and delivery.",
       effect: "zoom-out-up",
       duration: "500",
       delay: "300"
   }, {
-      imgLink: "/images/icon/icon5.png",
+      imgLink: "./images/icon/icon5.png",
       title: "AI Development",
       text: "Experienced with OpenAI, leveraging voice-to-text and predictive analytics for healthcare applications. Provided support in implementing AI-driven solutions for improved efficiency and accuracy.",
       effect: "zoom-out-up",
       duration: "500",
       delay: "600"
   }, {
-      imgLink: "/images/icon/icon6.png",
+      imgLink: "./images/icon/icon6.png",
       title: "Angular Development",
       text: "Experienced in Angular, integrating modern UI frameworks and using RxJS for data communication. Utilized in Pipe, FormModule, Custom Modules, and optimizing component rendering.",
       effect: "zoom-out-up",
@@ -15564,8 +15564,8 @@ S.jsx(S.Fragment, {
 }
 , XE = {
   portfolioItems: [{
-      imgLink: "/images/portfolio/teams.png",
-      imgLinkLg: "/images/portfolio/teams.png",
+      imgLink: "./images/portfolio/teams.png",
+      imgLinkLg: "./images/portfolio/teams.png",
       link: "https://teams.microsoft.com/v2/",
       description: `
         • Developed an Application – Built an app using Electron.js, Angular, and NgRx for the frontend.\n
@@ -15580,8 +15580,8 @@ S.jsx(S.Fragment, {
       duration: "500",
       delay: "100"
   }, {
-      imgLink: "/images/portfolio/masq.jpg",
-      imgLinkLg: "/images/portfolio/masq.jpg",
+      imgLink: "./images/portfolio/masq.jpg",
+      imgLinkLg: "./images/portfolio/masq.jpg",
       link: "https://www.masqbrowser.com/",
       description: "Monthend is a accounting company that specializes in the construction industry. They hired me to build a new web app that will help organize and track the expenses and bills related to construction projects. This project was built using React.js and Ruby on Rails.",
       title: "React.js,Electron-React-Boilerplate,N-API,C++,Chromium",
@@ -15589,8 +15589,8 @@ S.jsx(S.Fragment, {
       duration: "500",
       delay: "200"
   }, {
-      imgLink: "/images/portfolio/michaelcurrydesign.png",
-      imgLinkLg: "/images/portfolio/michaelcurrydesign.png",
+      imgLink: "./images/portfolio/michaelcurrydesign.png",
+      imgLinkLg: "./images/portfolio/michaelcurrydesign.png",
       description: `
       • Led Web Application Development – Built and managed multiple web applications using ASP.NET, C#, and SQL Server.\n
       • Optimized Data Retrieval – Developed a cache system using Cube.js, improving application performance and data access speed.\n
@@ -15608,8 +15608,8 @@ S.jsx(S.Fragment, {
       duration: "500",
       delay: "300"
   }, {
-      imgLink: "/images/portfolio/join1800dentist.png",
-      imgLinkLg: "/images/portfolio/join1800dentist.png",
+      imgLink: "./images/portfolio/join1800dentist.png",
+      imgLinkLg: "./images/portfolio/join1800dentist.png",
       description: `
         • Admin Dashboard Development – Designed and built an intuitive, user-friendly admin dashboard using Vue.js, providing a centralized interface for managing 
         company operations.\n
@@ -15627,8 +15627,8 @@ S.jsx(S.Fragment, {
       duration: "500",
       delay: "400"
   }, {
-      imgLink: "/images/portfolio/pluralsight.png",
-      imgLinkLg: "/images/portfolio/pluralsight.png",
+      imgLink: "./images/portfolio/pluralsight.png",
+      imgLinkLg: "./images/portfolio/pluralsight.png",
       description: `
         • Developed applications using Swift and Java – Built robust, high-performance applications for mobile and web platforms.\n
         • Led full-stack development – Seamlessly integrated frontend and backend functionalities, ensuring an efficient and cohesive user experience.\n
@@ -15642,8 +15642,8 @@ S.jsx(S.Fragment, {
       duration: "500",
       delay: "500"
   }, {
-    imgLink: "/images/portfolio/netrality.png",
-      imgLinkLg: "/images/portfolio/netrality.png",
+    imgLink: "./images/portfolio/netrality.png",
+      imgLinkLg: "./images/portfolio/netrality.png",
       description: `
       • Built out plugins for WordPress, phpbb, and MediaWiki (mostly WordPress) for custom auditing requirements. Also built out a large WordPress plugin for ingesting JSON files and generating custom WordPress objects out of them.\n
       • Built a prototype React-based theme for WordPress that used a Gatsby theme for styling and provided real-time views into how the generated Gatsby code would look.\n
@@ -15705,32 +15705,32 @@ S.jsx(S.Fragment, {
       }]
   },
   informations: [{
-      imgLink: "/images/client/client5.png",
+      imgLink: "./images/client/client5.png",
       title: "Ryan Peroz",
       designation: "",
       text: "Our experience with Zina on this contract was great. Communication and updates were made so that our team could work collaboratively together, remotely. She assisted well beyond the original scope of work and is very knowledgeable in next.js and Frontend Development. Zina showed great teamwork which should be highlighted."
   }, {
-      imgLink: "/images/client/client1.png",
+      imgLink: "./images/client/client1.png",
       title: "Victor Garcia",
       designation: "",
       text: "Zina was absolutely fantastic to work with on this project. She's very creative and knowledgeable. She communicates in a concise and timely manner and was readily available for questions or updates. I highly recommend Zina for your web development projects. I will be hiring him again in the future for other projects. I look forward to working with him again."
   }, {
-      imgLink: "/images/client/client4.png",
+      imgLink: "./images/client/client4.png",
       title: "Paul Webb",
       designation: "",
       text: "Zina was great to work with. She's a good programmer and She did everything that was asked in a timely manner. Her communication skills are good and he was a pleasure to work with."
   }, {
-      imgLink: "/images/client/Logo.jpeg",
+      imgLink: "./images/client/Logo.jpeg",
       title: "Michael Ward",
       designation: "",
       text: "I hired Zina to help redesign our agency website and he simply did an outstanding job. She was extremely prompt and efficient and I couldn't recommend him enough. If you want your website to look exceptionally professional and organized, Zina is the girl to hire!"
   }, {
-      imgLink: "/images/client/HL.png",
+      imgLink: "./images/client/HL.png",
       title: "Jacob Jay",
       designation: "",
       text: "After going through several big companies with very unsatisfactory results I was lucky enough to find... Zina! I knew what I wanted but everyone I had worked with prior to Zina either didn’t listen, or thought they knew better than me in determining what was best for our company. When I reached out to Zina she was kind enough to work within our budget AND provide us with the website that I had envisioned within a few days. We highly recommend him for anyone who needs his services. She is easy to communicate with and listens to your vision. Her input on our site was a suggestion and it was up to us what we wanted to do. She's a delightful person and it was a very enjoyable experience overall."
   }, {
-      imgLink: "/images/client/client2.png",
+      imgLink: "./images/client/client2.png",
       title: "Gabe Nunez",
       designation: "",
       text: "Zina was a pleasure to work with. She responded quickly, implemented things just as I asked, and was over-communicative which I really appreciated. 10/10!"
@@ -21185,7 +21185,7 @@ const o1 = ({data: t}) => {
                       children: [S.jsxs("div", {
                           className: "st-resume-heading",
                           children: [S.jsx("img", {
-                              src: "/images/icon/resume-icon2.png",
+                              src: "./images/icon/resume-icon2.png",
                               alt: "resume-icon"
                           }), S.jsx("h2", {
                               className: "st-resume-heading-title",
@@ -21211,7 +21211,7 @@ const o1 = ({data: t}) => {
                       children: [S.jsxs("div", {
                           className: "st-resume-heading",
                           children: [S.jsx("img", {
-                              src: "/images/icon/resume-icon1.png",
+                              src: "./images/icon/resume-icon1.png",
                               alt: "resume-icon"
                           }), S.jsx("h2", {
                               className: "st-resume-heading-title",
@@ -24556,7 +24556,7 @@ const I1 = ({element: t}) => {
           }), S.jsx("div", {
               className: "st-quote",
               children: S.jsx("img", {
-                  src: "/images/icon/quote.png",
+                  src: "./images/icon/quote.png",
                   alt: "quote"
               })
           })]
