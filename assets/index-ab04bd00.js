@@ -15786,9 +15786,9 @@ S.jsx(S.Fragment, {
       subTitle: "Queen's University Belfast",
       text: "I began my journey in Computer Science and learned the fundamentals of programming."
   }, {
-      title: "Bachelor's degree in Computer Science",
+      title: "Faculty of Informatics (Computer Science) and Applied Mathematics",
       duration: "2016 - 2020",
-      subTitle: "Brusov State University",
+      subTitle: "Yerevan State University",
       text: "Researched computer vision and artificial intelligence."
   }]
 }
